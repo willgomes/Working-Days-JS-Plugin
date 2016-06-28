@@ -25,3 +25,7 @@ Note.: Holidays or recesses were not verified yet.
 
 Esse plugin retornar uma data a partir de X dias contando somente os dias úteis.
 Obs.: Feriados ou recessos ainda não são verificados.
+
+[Willian Flauzino] (https://github.com/willflauzino)
+
+Participação no reconhecimento dos fins de semana e passagens de mês.
